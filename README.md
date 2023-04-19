@@ -9,7 +9,7 @@ The simulated dataset is pretty simple which only includes two columns:
 
 - `State`: this is a __categorical variable indicating if there is a spike [4 levels: "Baseline 1", "Signal 1", "Baseline 2", "Signal 2"]__ (string) 
 
-![]() 
+![](https://github.com/YzwIsALaity/Regular-Raster-Plot-In-R/blob/76188a87a393c5f67804c89ba91d85c4137ce781/Dataset.jpeg) 
 
 Our objective is to display this 1-dimensional data over time!
 
@@ -56,6 +56,6 @@ ggplot(Dt.Plot, aes(x = Time,
 
 ```
 
-![]() 
+![](https://github.com/YzwIsALaity/Regular-Raster-Plot-In-R/blob/76188a87a393c5f67804c89ba91d85c4137ce781/2D%20Raster%20Plot.tiff) 
 
 Here we go!
