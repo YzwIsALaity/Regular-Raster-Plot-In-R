@@ -56,6 +56,6 @@ ggplot(Dt.Plot, aes(x = Time,
 
 ```
 
-![](https://github.com/YzwIsALaity/Regular-Raster-Plot-In-R/blob/76188a87a393c5f67804c89ba91d85c4137ce781/2D%20Raster%20Plot.tiff) 
+![](https://github.com/YzwIsALaity/Regular-Raster-Plot-In-R/blob/d0a5518b94ca43ad3de0c90beef5f18b9b54fdba/2D%20Raster%20Plot.jpg) 
 
 Here we go!
